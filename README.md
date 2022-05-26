@@ -2,7 +2,7 @@
 
 Java 8
 
-Lambda expressions
+Lambda expressions<br/>
 herhangi bir class olmadan fonksiyonlara iş yaptırabileceğiz.
 
 Functional interfaces
